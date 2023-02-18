@@ -3,6 +3,7 @@ description: ""
 featured_image: ""
 tags: ["知识点"]
 title: "第一章 数据库的基本概念知识"
+summary: " "
 ---
 
 本章主要知识点如下：

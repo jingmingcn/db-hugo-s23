@@ -4,6 +4,7 @@ description: ""
 featured_image: ""
 tags: ["知识点"]
 title: "第三章 关系数据库标准语言SQL"
+summary: " "
 ---
 
 本章主要知识点如下：

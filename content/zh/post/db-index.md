@@ -1,6 +1,8 @@
 ---
 title: "索引概念"
+featured_image: ""
 tags: ["知识点"]
+summary: " "
 ---
 
 ## B-Tree和Hash索引比较
