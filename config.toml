@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://db.nihds.com/'
 languageCode = 'zh-cn'
-title = 'My New Hugo Site'
+title = '数据库原理'
 theme = 'ananke'
 
 resourceDir = "./resources"
