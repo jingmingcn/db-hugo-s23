@@ -2,6 +2,7 @@ baseURL = 'https://db.nihds.com/'
 languageCode = 'zh-cn'
 title = '数据库原理'
 theme = 'ananke'
+copyright = '国家健康医疗大数据研究院'
 
 resourceDir = "./resources"
 
