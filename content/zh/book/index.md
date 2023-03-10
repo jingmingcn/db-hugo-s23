@@ -36,3 +36,5 @@ menu:
 2021年4月28日更新: [Java JDBC 随堂课件](/file/java_jdbc.pdf)
 
 2023年3月1日更新：[Fille Handling in Java](/file/file-handling-in-java.pdf) 
+
+2023年3月10日更新： [Data Storage Design in Java](/file/data-storage-design-in-java.pdf) 
