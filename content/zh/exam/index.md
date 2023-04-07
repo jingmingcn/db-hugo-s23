@@ -1,5 +1,5 @@
 ---
-title: "考核方式"
+title: "考核方式*"
 menu:
   main:
     weight: 8
@@ -20,7 +20,7 @@ menu:
 
 #### 作业一
 
-[数据库SQL语法基础测验](../homework/sql-1/file/DB_SQL.docx)，按要求填写SQL语句。
+[数据库SQL语法基础测验](/file/DB_SQL.docx)，按要求填写SQL语句。
 
 #### 作业二
 
