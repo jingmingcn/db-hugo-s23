@@ -98,7 +98,7 @@ SELECT * FROM temp;
 +------+--------+
 ```
 
-![SQL Join](./sql_join.png)
+![SQL Join](../sql_join.png)
 
-![SQL Query](./SQL-Query-Execution-Order.jpeg)
+![SQL Query](../SQL-Query-Execution-Order.jpeg)
 
